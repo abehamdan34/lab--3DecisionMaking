@@ -1,0 +1,11 @@
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\bin\Debug\netcoreapp3.1\lab 3 dice roll finished.exe
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\bin\Debug\netcoreapp3.1\lab 3 dice roll finished.deps.json
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\bin\Debug\netcoreapp3.1\lab 3 dice roll finished.runtimeconfig.json
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\bin\Debug\netcoreapp3.1\lab 3 dice roll finished.runtimeconfig.dev.json
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\bin\Debug\netcoreapp3.1\lab 3 dice roll finished.dll
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\bin\Debug\netcoreapp3.1\lab 3 dice roll finished.pdb
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\obj\Debug\netcoreapp3.1\lab 3 dice roll finished.csprojAssemblyReference.cache
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\obj\Debug\netcoreapp3.1\lab 3 dice roll finished.AssemblyInfoInputs.cache
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\obj\Debug\netcoreapp3.1\lab 3 dice roll finished.AssemblyInfo.cs
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\obj\Debug\netcoreapp3.1\lab 3 dice roll finished.dll
+C:\Users\abeis\source\repos\lab 3 dice roll finished\lab 3 dice roll finished\obj\Debug\netcoreapp3.1\lab 3 dice roll finished.pdb
